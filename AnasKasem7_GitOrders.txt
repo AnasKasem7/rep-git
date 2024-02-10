@@ -1,0 +1,11 @@
+git init 
+
+git add
+
+git commit -m "File Nmae"
+
+git config --global user.email "Email"
+
+
+
+git config --global user.name "Name"
